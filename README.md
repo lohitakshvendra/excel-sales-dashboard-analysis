@@ -27,13 +27,7 @@ The dashboard helps answer business questions such as:
 ---
 
 ## 📷 Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-Example:
-
-![Dashboard](Images/Dashboard.png)
-
+<img width="520" height="294" alt="dashboard" src="https://github.com/user-attachments/assets/6b9bdac1-41fa-4d18-ba1e-0ad9a172b98b" />
 
 📊 Dashboard Features
 
